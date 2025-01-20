@@ -1,4 +1,6 @@
 ## Hi there 👋
+## I'm currently learning BASH, python, R and CS as part of my Bioinformatics master at UOC
+## I'm interested in Genetics software, GIS data analysis, biology-teaching, fungi
 
 <!--
 **bozydar-masselos/bozydar-masselos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
