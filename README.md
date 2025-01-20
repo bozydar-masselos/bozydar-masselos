@@ -1,5 +1,5 @@
-## Hi there 👋
-## I'm currently learning BASH, python, R and CS as part of my Bioinformatics master at UOC
+## Hi there 👋 I'm Thodoris, a biologist.
+## I'm currently learning BASH, python, R and CS as part of my Bioinformatics MSc @ UOC
 ## I'm interested in Genetics software, GIS data analysis, biology-teaching, fungi
 
 <!--
